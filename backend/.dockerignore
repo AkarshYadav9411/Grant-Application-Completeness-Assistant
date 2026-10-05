@@ -1,0 +1,11 @@
+.env
+*.env.local
+.pytest_cache
+.coverage
+grant_assistant.db
+uploads
+venv
+env
+.venv
+__pycache__
+*.pyc
